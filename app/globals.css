@@ -1,26 +1,272 @@
 @import "tailwindcss";
 
+/* ============================================
+   BOOKSTORE DESIGN SYSTEM - Forest Luxury
+   DESIGN_VARIANCE: 7 | MOTION: 6 | DENSITY: 4
+   ============================================ */
+
+@theme {
+  /* Forest Luxury Palette */
+  --color-forest-950: #0d1f18;
+  --color-forest-900: #1a3a2e;
+  --color-forest-800: #1e4535;
+  --color-forest-700: #265c45;
+  --color-forest-600: #2d7055;
+  --color-forest-500: #3a8a6a;
+  --color-forest-400: #52a882;
+  --color-forest-300: #7cc4a0;
+  --color-forest-200: #b0dcc4;
+  --color-forest-100: #daf0e6;
+  --color-forest-50: #f0faf5;
+
+  --color-stone-950: #1c1a18;
+  --color-stone-900: #2a2724;
+  --color-stone-800: #3d3a36;
+  --color-stone-700: #5a5650;
+  --color-stone-600: #7a756e;
+  --color-stone-500: #9a948c;
+  --color-stone-400: #b8b2aa;
+  --color-stone-300: #d0ccc6;
+  --color-stone-200: #e4e0db;
+  --color-stone-100: #f0ece7;
+  --color-stone-50: #f8f5f0;
+
+  --color-amber-700: #8a5e1a;
+  --color-amber-600: #b07820;
+  --color-amber-500: #c9963a;
+  --color-amber-400: #e0b256;
+  --color-amber-300: #f0cc82;
+  --color-amber-100: #fdf3d8;
+
+  /* Semantic Tokens */
+  --color-surface: #ffffff;
+  --color-surface-elevated: #faf9f6;
+  --color-surface-overlay: #ffffff;
+  --color-text-primary: #1c1a18;
+  --color-text-secondary: #5a5650;
+  --color-text-muted: #9a948c;
+  --color-border: #e0dbd5;
+  --color-border-strong: #c8c2bb;
+  --color-accent: #c9963a;
+  --color-accent-hover: #b07820;
+  --color-brand: #1a3a2e;
+  --color-brand-light: #265c45;
+
+  /* Typography */
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  /* Spacing Scale */
+  --spacing-section: 5rem;
+
+  /* Radius System - Consistent rounded-xl for cards, rounded-full for pills */
+  --radius-card: 1rem;
+  --radius-button: 9999px;
+  --radius-input: 0.5rem;
+  --radius-badge: 9999px;
+  --radius-image: 0.75rem;
+  --radius-modal: 1.25rem;
+
+  /* Shadows */
+  --shadow-card: 0 2px 12px 0 rgb(26 58 46 / 0.08);
+  --shadow-card-hover: 0 8px 32px 0 rgb(26 58 46 / 0.16);
+  --shadow-elevated: 0 16px 48px 0 rgb(26 58 46 / 0.20);
+  --shadow-modal: 0 24px 80px 0 rgb(28 26 24 / 0.24);
+}
+
+/* Google Fonts - loaded via @font-face from next/font in layout.tsx */
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: var(--color-text-primary);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
+* {
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================
+   COMPONENT UTILITIES
+   ============================================ */
+
+/* Scrollbar customization */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border-strong);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Horizontal scroll with hidden scrollbar for carousels */
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Line clamp utilities */
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ============================================
+   ANIMATION KEYFRAMES
+   ============================================ */
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes slideOutRight {
+  from { transform: translateX(0); }
+  to { transform: translateX(100%); }
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* Skeleton loading shimmer */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--color-stone-200) 25%,
+    var(--color-stone-100) 50%,
+    var(--color-stone-200) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.4s ease infinite;
+}
+
+/* ============================================
+   STAR RATING
+   ============================================ */
+
+.stars {
+  display: inline-flex;
+  gap: 2px;
+  color: var(--color-amber-500);
+}
+
+/* ============================================
+   PRICE FORMATTING
+   ============================================ */
+
+.price-original {
+  text-decoration: line-through;
+  color: var(--color-text-muted);
+}
+
+/* ============================================
+   PRODUCT CARD HOVER GROUP
+   ============================================ */
+
+.product-card-hover:hover .product-card-actions {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.product-card-actions {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ============================================
+   MEGA MENU
+   ============================================ */
+
+.mega-menu-backdrop {
+  position: fixed;
+  inset: 0;
+  top: 72px;
+  background: rgb(28 26 24 / 0.4);
+  z-index: 40;
+}
+
+/* ============================================
+   TRANSITIONS
+   ============================================ */
+
+@media (prefers-reduced-motion: no-preference) {
+  .animate-fade-up {
+    animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

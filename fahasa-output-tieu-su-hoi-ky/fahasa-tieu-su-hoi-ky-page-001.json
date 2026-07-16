@@ -1,0 +1,472 @@
+[
+  {
+    "product_id": "444199",
+    "title": "Người Thầy (Tái Bản)",
+    "product_url": "https://www.fahasa.com/nguoi-thay-tai-ban.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786045193327.jpg",
+    "price": 267000,
+    "final_price": 214000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1051136",
+    "title": "Thư Cho Em - Bìa Cứng - Phiên Bản Độc Quyền 50 Năm Fahasa",
+    "product_url": "https://www.fahasa.com/thu-cho-em-bia-cung-doc-quyen-fahasa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/7/z7848504858500_4ddef93c1b7aee67242442c5eb30adf5.jpg",
+    "price": 270000,
+    "final_price": 216000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "522210",
+    "title": "Thư Cho Em",
+    "product_url": "https://www.fahasa.com/thu-cho-em.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235241015.jpg",
+    "price": 140000,
+    "final_price": 112000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1033440",
+    "title": "Hồi Ký Giáo Sư-Viện Sĩ-Thiếu Tướng-Anh Hùng Lao Động Trần Đại Nghĩa - Cuộc Đời Và Hành Trình Sự Nghiệp",
+    "product_url": "https://www.fahasa.com/hoi-ky-giao-su-vien-si-thieu-tuong-anh-hung-lao-dong-tran-dai-nghia-cuoc-doi-va-hanh-trinh-su-nghiep.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/h/o/hoikytrandainghia.jpg",
+    "price": 150000,
+    "final_price": 120000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "638518",
+    "title": "Hồi Ký Nguyễn Thị Bình - Gia Đình, Bạn Bè Và Đất Nước",
+    "product_url": "https://www.fahasa.com/hoi-ky-nguyen-thi-binh-gia-dinh-ban-be-dat-nuoc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-gia-_nh_-b_n-b_-v_-_t-n_c_1.jpg",
+    "price": 159000,
+    "final_price": 151050,
+    "discount_percent": 5,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "399861",
+    "title": "Điệp Viên Hoàn Hảo X6 - Phạm Xuân Ẩn",
+    "product_url": "https://www.fahasa.com/diep-vien-hoan-hao-x6-pham-xuan-an.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086855737.jpg",
+    "price": 178000,
+    "final_price": 133500,
+    "discount_percent": 25,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "550986",
+    "title": "Gánh Gánh Gồng Gồng (Tái Bản 2024)",
+    "product_url": "https://www.fahasa.com/ganh-ganh-gong-gong-tai-ban-2024.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043779851_1_1.jpg",
+    "price": 160000,
+    "final_price": 128000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1047744",
+    "title": "Anh Hùng Phạm Ngọc Thảo - Ấn Bản Kỷ Niệm - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/anh-hung-pham-ngoc-thao-an-ban-ky-niem-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/img_5320_2.jpg",
+    "price": 159000,
+    "final_price": 136000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "705824",
+    "title": "Hành Trình Vì Hòa Bình",
+    "product_url": "https://www.fahasa.com/hanh-trinh-vi-hoa-binh-705824.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/6/z6928481870537_930d454a4d56467ad2764d926bf40e81.jpg",
+    "price": 240000,
+    "final_price": 204000,
+    "discount_percent": 15,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "487219",
+    "title": "Hòn Tuyết Lăn - Những Triết Lý Sống Và Đầu Tư Vượt Thời Gian Của Warren Buffett (Tái Bản 2024)",
+    "product_url": "https://www.fahasa.com/hon-tuyet-lan-nhung-triet-ly-song-va-dau-tu-vuot-thoi-gian-cua-warren-buffett-tai-ban-2024.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/5/1/514083751a66972514d29e8b29a03e6f.jpg",
+    "price": 685000,
+    "final_price": 548000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1044337",
+    "title": "Trạm Dừng Sinh Tử - The In-Between",
+    "product_url": "https://www.fahasa.com/tram-dung-sinh-tu-the-in-between.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/r/tramdungsinhtu-bia01.jpg",
+    "price": 168000,
+    "final_price": 126000,
+    "discount_percent": 25,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "893796",
+    "title": "Điện Biên Phủ Trên Không - Bản Anh Hùng Ca Dưới Trời Rực Lửa - Tặng Kèm Standee - Quà Tặng Độc Quyền Fahasa",
+    "product_url": "https://www.fahasa.com/dien-bien-phu-tren-khong-ban-anh-hung-ca-duoi-troi-ruc-lua-tang-kem-standee-doc-quyen-fahasa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/u/n/untitled-2_156.jpg",
+    "price": 187000,
+    "final_price": 150000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "638738",
+    "title": "Hồi Ký Nguyễn Thị Bình - Gia Đình, Bạn Bè Và Đất Nước - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/hoi-ky-nguyen-thi-binh-gia-dinh-ban-be-va-dat-nuoc-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-gia-_nh_-b_n-b_-v_-_t-n_c_1_1.jpg",
+    "price": 224000,
+    "final_price": 212800,
+    "discount_percent": 5,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "412370",
+    "title": "Điệp Viên Hoàn Hảo X6 - Phạm Xuân Ẩn - Bìa Cứng (Tái Bản 2022)",
+    "product_url": "https://www.fahasa.com/diep-vien-hoan-hao-x6-pham-xuan-an-tb-2022-bc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935086855720.jpg",
+    "price": 198000,
+    "final_price": 148500,
+    "discount_percent": 25,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "368817",
+    "title": "Kể Chuyện Cuộc Đời Các Thiên Tài: Albert Einstein - Tuổi Thơ Gian Khó Và Cuộc Đời Khoa Học Vĩ Đại",
+    "product_url": "https://www.fahasa.com/albert-einstein-tuoi-tho-gian-kho-va-cuoc-doi-khoa-hoc-vi-dai.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_237520.jpg",
+    "price": 55000,
+    "final_price": 44000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "273246",
+    "title": "Tư Trị Thông Giám - Tập 6",
+    "product_url": "https://www.fahasa.com/tu-tri-thong-giam-tap-6.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_19542.jpg",
+    "price": 292000,
+    "final_price": 224840,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "445677",
+    "title": "Từ Kiến Trúc Sư Thành Bác Sĩ Tại Hoa Kỳ - Dám Chọn Lựa, Dám Thành Công (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/tu-kien-truc-su-thanh-bac-si-tai-hoa-ky-dam-chon-lua-dam-thanh-cong-tai-ban-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_244718_1_6160_1.jpg",
+    "price": 149000,
+    "final_price": 120000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "282732",
+    "title": "Khi Hơi Thở Hóa Thinh Không (Tái Bản 2020)",
+    "product_url": "https://www.fahasa.com/khi-hoi-tho-hoa-thinh-khong-tai-ban-2020.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_220964.jpg",
+    "price": 109000,
+    "final_price": 93000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "640813",
+    "title": "Hồ Chí Minh - Một Con Người Và Một Dân Tộc - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/ho-chi-minh-mot-con-nguoi-va-mot-dan-toc-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/h/o/ho-chi-minh_mot-con-nguoi-va-mot-dan-toc_bia.jpg",
+    "price": 350000,
+    "final_price": 298000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "641346",
+    "title": "Cát Bụi Chân Ai - Tặng Kèm Bookmark Bồi Cứng",
+    "product_url": "https://www.fahasa.com/cat-bui-chan-ai-tang-kem-bookmark-boi-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/6/z6604030037630_d9e236fa3aa83bd7bbcc38178e38933a.jpg",
+    "price": 179000,
+    "final_price": 144000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "562878",
+    "title": "Phạm Xuân Ẩn - Tên Người Như Cuộc Đời",
+    "product_url": "https://www.fahasa.com/pham-xuan-an-ten-nguoi-nhu-cuoc-doi-t4-2024.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 120000,
+    "final_price": 96000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "237219",
+    "title": "Tư Trị Thông Giám - Tập 3",
+    "product_url": "https://www.fahasa.com/tu-tri-thong-giam-tap-3.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 269000,
+    "final_price": 207130,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "416008",
+    "title": "Người Lính Phi Công Kể Chuyện",
+    "product_url": "https://www.fahasa.com/nguoi-linh-phi-cong-ke-chuyen.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 35000,
+    "final_price": 30000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1043778",
+    "title": "Thư Ký Bác Hồ Kể Chuyện",
+    "product_url": "https://www.fahasa.com/thu-ky-bac-ho-ke-chuyen-xuat-ban-lan-thu-tua-co-chinh-sua.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 141000,
+    "final_price": 113000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1034424",
+    "title": "Boxset Trần Tiến - Người Hát Thơ Mình - Ca Khúc Và Những Câu Chuyện - Bìa Cứng - Kèm Poster 2 Mặt",
+    "product_url": "https://www.fahasa.com/boxset-tran-tien-nguoi-hat-tho-minh-ca-khuc-va-nhung-cau-chuyen-bia-cung-kem-poster-2-mat.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 1200000,
+    "final_price": 924000,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1059046",
+    "title": "Tổng Hành Dinh Trong Mùa Xuân Toàn Thắng",
+    "product_url": "https://www.fahasa.com/tong-hanh-dinh-trong-mua-xuan-toan-thang-1059046.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 135000,
+    "final_price": 121500,
+    "discount_percent": 10,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "587873",
+    "title": "Hãy Sống Hết Mình Vì Đời Ngắn Lắm - Life Is Short, Make It Count",
+    "product_url": "https://www.fahasa.com/hay-song-het-minh-vi-doi-ngan-lam-life-is-short-make-it-count.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 138000,
+    "final_price": 111000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1037631",
+    "title": "Hương Vị Chợ Lớn - Ký Ức Trong Từng Món Ăn",
+    "product_url": "https://www.fahasa.com/huong-vi-cho-lon-ky-uc-trong-tung-mon-an.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 180000,
+    "final_price": 162000,
+    "discount_percent": 10,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "689587",
+    "title": "Tôi Nói Gì Khi Nói Về Chạy Bộ",
+    "product_url": "https://www.fahasa.com/toi-noi-gi-khi-noi-ve-chay-bo-689587.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 92000,
+    "final_price": 74000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "689608",
+    "title": "Xuân Hinh - Kẻ Chọc Cười Dân Dã",
+    "product_url": "https://www.fahasa.com/xuan-hinh-ke-choc-cuoi-dan-da.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 229000,
+    "final_price": 184000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "613213",
+    "title": "Bác Hồ Với Thiếu Niên Nhi Đồng (Tái Bản 2025)",
+    "product_url": "https://www.fahasa.com/bac-ho-voi-thieu-nien-nhi-dong-tai-ban-2025.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 58000,
+    "final_price": 41760,
+    "discount_percent": 28,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "639568",
+    "title": "Cánh Chim Bất Tử - Câu Chuyện Về Người Phi Công Huyền Thoại Nguyễn Văn Bảy - Tặng Kèm Bookmark + Postcard",
+    "product_url": "https://www.fahasa.com/canh-chim-bat-tu-cau-chuyen-ve-nguoi-phi-cong-huyen-thoai-nguyen-van-bay-tang-kem-bookmark-postcard.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 147000,
+    "final_price": 113190,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "221228",
+    "title": "Tự Truyện Benjamin Franklin (Tái Bản 2018)",
+    "product_url": "https://www.fahasa.com/tu-truyen-benjamin-franklin-tai-ban-2018.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 109000,
+    "final_price": 93000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "1039663",
+    "title": "Kể Chuyện Cụm Tình Báo H.63 Anh Hùng - Những Câu Chuyện Tình Báo Thót Tim Không Phải Ai Cũng Biết",
+    "product_url": "https://www.fahasa.com/ke-chuyen-cum-tinh-bao-h-63-anh-hung-nhung-cau-chuyen-tinh-bao-thot-tim-khong-phai-ai-cung-biet.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 280000,
+    "final_price": 224000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "948799",
+    "title": "Hồi Ức Phi Công Tiêm Kích",
+    "product_url": "https://www.fahasa.com/hoi-uc-phi-cong-tiem-kich.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 187000,
+    "final_price": 143990,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "357087",
+    "title": "Indian Givers - Những Món Quà Của Người Da Đỏ",
+    "product_url": "https://www.fahasa.com/indian-givers-nhung-mon-qua-cua-nguoi-da-do.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 259000,
+    "final_price": 208000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "634139",
+    "title": "Khúc Bi Ca Của Gã Dân Quê - Hồi Ức Về Một Gia Đình Và Một Nền Văn Hóa Trong Cơn Khủng Hoảng",
+    "product_url": "https://www.fahasa.com/khuc-bi-ca-cua-ga-dan-que-hoi-uc-ve-mot-gia-dinh-va-mot-nen-van-hoa-trong-con-khung-hoang.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 199000,
+    "final_price": 159000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "708719",
+    "title": "Hồi Ức Quảng Trị",
+    "product_url": "https://www.fahasa.com/hoi-uc-quang-tri.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 104000,
+    "final_price": 89000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "311508",
+    "title": "Tư Trị Thông Giám - Tập 7",
+    "product_url": "https://www.fahasa.com/tu-tri-thong-giam-tap-7.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 289000,
+    "final_price": 222530,
+    "discount_percent": 23,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "594560",
+    "title": "Jesse Livermore - Reminiscences Of A Stock Operator - Hồi Ức Của Một Thiên Tài Đầu Tư Chứng Khoán",
+    "product_url": "https://www.fahasa.com/jesse-livermore-reminiscences-of-a-stock-operator-hoi-uc-cua-mot-thien-tai-dau-tu-chung-khoan.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 199000,
+    "final_price": 170000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "598000",
+    "title": "Thư Kí Bác Hồ Kể Chuyện",
+    "product_url": "https://www.fahasa.com/thu-ki-bac-ho-ke-chuyen.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 50000,
+    "final_price": 43000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "598572",
+    "title": "Hồi Ký Alex Ferguson (Tái Bản 2024)",
+    "product_url": "https://www.fahasa.com/hoi-ky-alex-ferguson-tai-ban-2024.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 195000,
+    "final_price": 166000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "637497",
+    "title": "Món Quà Của Sinh Mệnh - Thương Yêu, Mất Mát Và Ý Nghĩa Sự Sống",
+    "product_url": "https://www.fahasa.com/mon-qua-cua-sinh-menh-thuong-yeu-mat-mat-va-y-nghia-su-song.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 135000,
+    "final_price": 115000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "647673",
+    "title": "Danh Tác Việt Nam - Những Ngày Thơ Ấu (In Theo Bản Của NXB Đời Nay Năm 1940)",
+    "product_url": "https://www.fahasa.com/danh-tac-viet-nam-nhung-ngay-tho-au-in-theo-ban-cua-nxb-doi-nay-nam-1940.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 50000,
+    "final_price": 40000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "601291",
+    "title": "Thượng Kinh Ký Sự - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/thuong-kinh-ky-su-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 295000,
+    "final_price": 251000,
+    "discount_percent": 14,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "395080",
+    "title": "Thế Giới Miyazaki - Một Cuộc Đời Nghệ Thuật",
+    "product_url": "https://www.fahasa.com/the-gioi-miyazaki-mot-cuoc-doi-nghe-thuat.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 199000,
+    "final_price": 160000,
+    "discount_percent": 19,
+    "category": "Tiểu sử - Hồi ký"
+  },
+  {
+    "product_id": "678514",
+    "title": "Sáng Mãi Tấm Gương Bác Hồ - Cần Kiệm",
+    "product_url": "https://www.fahasa.com/sang-mai-tam-guong-bac-ho-can-kiem.html",
+    "image_src": "https://cdn1.fahasa.com/skin/frontend/ma_vanese/fahasa/images/ring_loader.svg",
+    "price": 50000,
+    "final_price": 40000,
+    "discount_percent": 20,
+    "category": "Tiểu sử - Hồi ký"
+  }
+]

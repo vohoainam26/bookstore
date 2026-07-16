@@ -1,0 +1,462 @@
+[
+  {
+    "product_id": "765705",
+    "title": "Tuyển Tập Truyện Cổ Tích Việt Nam Dành Cho Thiếu Nhi (Tái Bản 2025)",
+    "product_url": "https://www.fahasa.com/tuyen-tap-truyen-co-tich-viet-nam-danh-cho-thieu-nhi-tai-ban-2025.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238100101.jpg",
+    "price": 125000,
+    "final_price": 87500,
+    "discount_percent": 30,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "242687",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Warren Buffett (Tái Bản 2019)",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-warren-buffett-tai-ban-2019.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_186987.jpg",
+    "price": 55000,
+    "final_price": 47000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "424336",
+    "title": "Giáo Dục Đầu Đời Cho Trẻ - Những Bài Học Tự Bảo Vệ Bản Thân - Không Được Chạm Vào Vùng Riêng Tư Của Tớ",
+    "product_url": "https://www.fahasa.com/giao-duc-dau-doi-cho-tre-nhung-bai-hoc-tu-bao-ve-ban-than-khong-duoc-cham-vao-vung-rieng-tu-cua-to.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935212362429.jpg",
+    "price": 42000,
+    "final_price": 33600,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "390648",
+    "title": "Kính Vạn Hoa - Tập 1 - Nhà Ảo Thuật - Những Con Gấu Bông - Thám Tử Nghiệp Dư (Tái Bản 2022)",
+    "product_url": "https://www.fahasa.com/kinh-van-hoa-tap-1-nha-ao-thuat-nhung-con-gau-bong-tham-tu-nghiep-du-tai-ban-2022.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/k/i/kinh-van-hoa---phien-ban-m_i---tap-1---tb-2022.jpg",
+    "price": 86000,
+    "final_price": 69000,
+    "discount_percent": 19,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "368370",
+    "title": "Kỹ Năng Sống Đầu Đời Cho Bé - Kiến Thức Bảo Vệ Bản Thân",
+    "product_url": "https://www.fahasa.com/ky-nang-song-dau-doi-cho-be-kien-thuc-bao-ve-ban-than.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_237180.jpg",
+    "price": 25000,
+    "final_price": 20000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "259537",
+    "title": "Những Câu Chuyện Truyền Cảm Hứng - I Will Be Better - Con Sẽ Tự Giác",
+    "product_url": "https://www.fahasa.com/i-will-be-better-nhung-cau-chuyen-truyen-cam-hung-con-se-tu-giac.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_7128.jpg",
+    "price": 50000,
+    "final_price": 43000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "415375",
+    "title": "Nhật Ký Chú Bé Nhút Nhát - Tập 7: Kỳ Đà Cản Mũi (Tái Bản)",
+    "product_url": "https://www.fahasa.com/nhat-ky-chu-be-nhut-nhat-tap-7-ky-da-can-mui-tai-ban.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8938537634325.jpg",
+    "price": 55000,
+    "final_price": 44000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "265237",
+    "title": "Bách Khoa Tri Thức Về Khám Phá Thế Giới Cho Trẻ Em - Vũ Trụ (Tái Bản 2018)",
+    "product_url": "https://www.fahasa.com/bach-khoa-tri-thuc-ve-kham-pha-the-gioi-cho-tre-em-vu-tru-tai-ban-2018.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_12337.jpg",
+    "price": 45000,
+    "final_price": 36000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "437608",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Martin Luther King (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-martin-luther-king-tai-ban-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/w/h/who-chuyen-ke-ve-danh-nhan-the-gioi_martin-luther-king_tb-2023.jpg",
+    "price": 65000,
+    "final_price": 56000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "1035307",
+    "title": "Tò Mò Muốn Biết... - Trên Thảo Nguyên - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/to-mo-muon-biet-tren-thao-nguyen-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786040464224.jpg",
+    "price": 66000,
+    "final_price": 53000,
+    "discount_percent": 19,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "450290",
+    "title": "Origami - Nghệ Thuật Xếp Giấy Nhật Bản (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/origami-nghe-thuat-xep-giay-nhat-ban-tb-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935074132291.jpg",
+    "price": 85000,
+    "final_price": 68000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "1035308",
+    "title": "Tò Mò Muốn Biết... - Trong Gốc Cây - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/to-mo-muon-biet-trong-goc-cay-bia-cung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786040464231.jpg",
+    "price": 66000,
+    "final_price": 53000,
+    "discount_percent": 19,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "308572",
+    "title": "Dế Mèn Phiêu Lưu Ký - Đậu Đũa Minh Họa",
+    "product_url": "https://www.fahasa.com/de-men-phieu-luu-ky-dau-dua-minh-hoa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935244848502.jpg",
+    "price": 225000,
+    "final_price": 192000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "427782",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Stephen Hawking (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-stephen-hawking-tai-ban-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/w/h/who---chuyen-ke-ve-danh-nhan-the-gioi---stephan-hawking---tb-2023.jpg",
+    "price": 65000,
+    "final_price": 56000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "425231",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Michael Jordan (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-michael-jordan-tai-ban-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935244888423.jpg",
+    "price": 60000,
+    "final_price": 51000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "392568",
+    "title": "100++ Kỹ Năng Tự Bảo Vệ Bản Thân Cho Trẻ - Ứng Phó Với Nguy Hiểm",
+    "product_url": "https://www.fahasa.com/100-ky-nang-tu-bao-ve-ban-than-cho-tre-ung-pho-voi-nguy-hiem.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/5/b54cac70d933176d4e22.jpg",
+    "price": 109000,
+    "final_price": 87200,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "319525",
+    "title": "Những Truyện Hay Viết Cho Thiếu Nhi - Vũ Tú Nam (Tái Bản 2020)",
+    "product_url": "https://www.fahasa.com/nhung-truyen-hay-viet-cho-thieu-nhi-vu-tu-nam-tai-ban-2020.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_203597.jpg",
+    "price": 65000,
+    "final_price": 52000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "520682",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Jeff Bezos",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-jeff-bezos.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/a/danh-nhan-who_jeff-bezos_bia.jpg",
+    "price": 60000,
+    "final_price": 51000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "421818",
+    "title": "Bé Tập Kể Chuyện - Mỗi Tuần Một Câu Chuyện - Sự Tích Bánh Chưng Bánh Giầy (2022)",
+    "product_url": "https://www.fahasa.com/btkc-su-tich-banh-chung-banh-giay-2022.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974179818.jpg",
+    "price": 15000,
+    "final_price": 13000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "242962",
+    "title": "Bác Hồ Sống Mãi - Những Mẩu Chuyện Hay Về Bác - Tập 3",
+    "product_url": "https://www.fahasa.com/bac-ho-song-mai-nhung-mau-chuyen-hay-ve-bac-tap-3.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_187153.jpg",
+    "price": 58000,
+    "final_price": 50000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "561740",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - Angela Merkel",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-nikola-tesla-561740.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/w/h/who_chuyen-ke-danh-nhan-the-gioi_angela-merkel_bia.jpg",
+    "price": 60000,
+    "final_price": 51000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "639772",
+    "title": "Anh Em Bình Thường - Khoảnh Khắc Anh Em Hòa Thuận",
+    "product_url": "https://www.fahasa.com/anh-em-binh-thuong-khoanh-khac-anh-em-hoa-thuan.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935210311306.jpg",
+    "price": 75000,
+    "final_price": 60000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "561741",
+    "title": "Who? Chuyện Kể Về Danh Nhân Thế Giới - James Watt",
+    "product_url": "https://www.fahasa.com/who-chuyen-ke-ve-danh-nhan-the-gioi-james-watt.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/w/h/who_chuyen-ke-danh-nhan-the-gioi_james-watt_bia.jpg",
+    "price": 60000,
+    "final_price": 51000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "400820",
+    "title": "Kính Vạn Hoa - Tập 5 - Khu Vườn Trên Mái Nhà - Thủ Môn Bị Từ Chối - Thi Sĩ Hạng Ruồi (Tái Bản 2022)",
+    "product_url": "https://www.fahasa.com/kinh-van-hoa-tap-5-khu-vuon-tren-mai-nha-thu-mon-bi-tu-choi-thi-si-hang-ruoi-tai-ban-2022.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935244864281.jpg",
+    "price": 86000,
+    "final_price": 69000,
+    "discount_percent": 19,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "449179",
+    "title": "Nhật Ký Chú Bé Nhút Nhát - Tập 18: Out Trình",
+    "product_url": "https://www.fahasa.com/nhat-ky-chu-be-nhut-nhat-tap-18-out-trinh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/b/cbnn18-2.jpg",
+    "price": 55000,
+    "final_price": 44000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "417610",
+    "title": "Truyện Cổ Tích Việt Nam (Song Ngữ Việt-Anh) - Bảy Điều Ước",
+    "product_url": "https://www.fahasa.com/truyen-co-tich-viet-nam-song-ngu-viet-anh-bay-dieu-uoc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935212361958.jpg",
+    "price": 16000,
+    "final_price": 13000,
+    "discount_percent": 18,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "592251",
+    "title": "Quiz! Khoa Học Kì Thú - Những Nghề Kì Lạ",
+    "product_url": "https://www.fahasa.com/quiz-khoa-hoc-ki-thu-nhung-nghe-ki-la.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/q/u/quiz_-khoa-hoc-ki-thu_nhung-nghe-ki-la_bia.jpg",
+    "price": 75000,
+    "final_price": 64000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "639774",
+    "title": "Anh Em Bình Thường - Món Quà Sinh Nhật Siêu Khổng Lồ",
+    "product_url": "https://www.fahasa.com/anh-em-binh-thuong-mon-qua-sinh-nhat-sieu-khong-lo.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935210311320.jpg",
+    "price": 75000,
+    "final_price": 60000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "357288",
+    "title": "Horrible Science - Bộ Não Phập Phồng",
+    "product_url": "https://www.fahasa.com/horrible-science-bo-nao-phap-phong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_230545.jpg",
+    "price": 52000,
+    "final_price": 45000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "256576",
+    "title": "100 Bí Ẩn Đáng Kinh Ngạc Về Lịch Sử - 100 Things To Know About History",
+    "product_url": "https://www.fahasa.com/100-bi-an-dang-kinh-ngac-ve-lich-su-100-things-to-know-about-history.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_4518.jpg",
+    "price": 100000,
+    "final_price": 80000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "417612",
+    "title": "Truyện Cổ Tích Việt Nam (Song Ngữ Việt-Anh) - Sọ Dừa",
+    "product_url": "https://www.fahasa.com/truyen-co-tich-viet-nam-song-ngu-viet-anh-so-dua.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935212361972.jpg",
+    "price": 16000,
+    "final_price": 13000,
+    "discount_percent": 18,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "696119",
+    "title": "Tiệm Postcard Trong Khu Rừng Nhỏ",
+    "product_url": "https://www.fahasa.com/tiem-postcard-trong-khu-rung-nho.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935212373364.jpg",
+    "price": 69000,
+    "final_price": 55200,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "998937",
+    "title": "Boxset Kính Vạn Hoa - Bộ Kỉ Niệm 30 Năm: Tập 25 - 30 (Hộp 6 Tập) - Tặng Kèm Sổ Tay Kính Vạn Hoa",
+    "product_url": "https://www.fahasa.com/boxset-kinh-van-hoa-bo-ki-niem-30-nam-tap-25-30-hop-6-tap-tang-kem-so-tay-kinh-van-hoa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/k/i/kinh-van-hoa_bo-ki-niem-30-nam_boxset-05.jpg",
+    "price": 240000,
+    "final_price": 192000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "409543",
+    "title": "Tác Phẩm Chọn Lọc - Văn Học Mỹ - Ông Già Và Biển Cả",
+    "product_url": "https://www.fahasa.com/tac-pham-chon-loc-van-hoc-my-ong-gia-va-bien-ca.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935244877151.jpg",
+    "price": 45000,
+    "final_price": 36000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "998939",
+    "title": "Boxset Kính Vạn Hoa - Bộ Kỉ Niệm 30 Năm: Tập 31 - 36 (Hộp 6 Tập) - Tặng Kèm Sổ Tay Kính Vạn Hoa",
+    "product_url": "https://www.fahasa.com/boxset-kinh-van-hoa-bo-ki-niem-30-nam-tap-31-36-hop-6-tap-tang-kem-so-tay-kinh-van-hoa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/k/i/kinh-van-hoa_bo-ki-niem-30-nam_boxset-06.jpg",
+    "price": 240000,
+    "final_price": 192000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "460220",
+    "title": "Hạt Sồi Vàng - Bìa Cứng",
+    "product_url": "https://www.fahasa.com/hat-soi-vang.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786043826135.jpg",
+    "price": 105000,
+    "final_price": 90000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "397040",
+    "title": "Kính Vạn Hoa - Tập 3 (Tái Bản 2022)",
+    "product_url": "https://www.fahasa.com/kinh-van-hoa-tap-3-tai-ban-2022.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935244864441.jpg",
+    "price": 135000,
+    "final_price": 108000,
+    "discount_percent": 20,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "581537",
+    "title": "Bách Khoa Tri Thức - Khám Phá Đại Dương - Explore The Ocean (Song Ngữ)",
+    "product_url": "https://www.fahasa.com/bach-khoa-tri-thuc-kham-pha-dai-duong-explore-the-ocean-song-ngu.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044039619.jpg",
+    "price": 59000,
+    "final_price": 48000,
+    "discount_percent": 18,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "587623",
+    "title": "Tý Quậy - Tập 14",
+    "product_url": "https://www.fahasa.com/ty-quay-tap-14-587623.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/y/ty-quay_bia_tap-14.jpg",
+    "price": 40000,
+    "final_price": 34000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "523242",
+    "title": "Những Anh Hùng Trẻ Tuổi - Kim Đồng (Tái Bản 2024)",
+    "product_url": "https://www.fahasa.com/nhung-anh-hung-tre-tuoi-kim-dong-tai-ban-2024.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/n/h/nhung-anh-hung-tre-tuoi_kim-dong_bia_tb-2024.jpg",
+    "price": 40000,
+    "final_price": 34000,
+    "discount_percent": 15,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "415872",
+    "title": "Bé Tập Kể Chuyện - Cóc Kiện Trời (2022)",
+    "product_url": "https://www.fahasa.com/be-tap-ke-chuyen-coc-kien-troi-2022.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974180654.jpg",
+    "price": 15000,
+    "final_price": 13000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "638845",
+    "title": "STEM Hóa Học - Cuốn Sổ Tay Ma Thuật",
+    "product_url": "https://www.fahasa.com/stem-hoa-hoc-cuon-so-tay-ma-thuat.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/i/bia-truoc-cuon-stem-hoa-hoc-cuon-so-tay-ma-thuat-700x988.jpg",
+    "price": 98000,
+    "final_price": 66640,
+    "discount_percent": 32,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "1039078",
+    "title": "Bách Khoa Toàn Thư Vui Nhộn - Khơi Dậy Khả Năng Giao Tiếp Cho Trẻ",
+    "product_url": "https://www.fahasa.com/bach-khoa-toan-thu-vui-nhon-khoi-day-kha-nang-giao-tiep-cho-tre.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935380700368.jpg",
+    "price": 98000,
+    "final_price": 79000,
+    "discount_percent": 19,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "559871",
+    "title": "Những Lời Yêu Thương Của Con Trẻ Dành Tặng Các Mẹ - Vì Sao Tớ Yêu Mẹ (Tái Bản 2024)",
+    "product_url": "https://www.fahasa.com/nhung-loi-yeu-thuong-cua-con-tre-danh-tang-cac-me-vi-sao-to-yeu-me-tai-ban-2024.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/v/i/vi-sao-to-yeu-me_tb-2024.jpg",
+    "price": 30000,
+    "final_price": 26000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "444127",
+    "title": "Cuộc Phiêu Lưu Của Dế Út - Phần Ba (Tái Bản 2023)",
+    "product_url": "https://www.fahasa.com/cuoc-phieu-luu-cua-de-ut-phan-ba-tai-ban-2023.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/u/cuoc-phieu-luu-cua-de-ut_bia_phan-3.jpg",
+    "price": 70000,
+    "final_price": 60000,
+    "discount_percent": 14,
+    "category": "Thiếu nhi"
+  },
+  {
+    "product_id": "236061",
+    "title": "Mẹ Hỏi Bé Trả Lời 4-5 Tuổi (Tái Bản 2019)",
+    "product_url": "https://www.fahasa.com/me-hoi-be-tra-loi-4-5-tuoi-tai-ban-2019.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_182816.jpg",
+    "price": 30000,
+    "final_price": 26000,
+    "discount_percent": 13,
+    "category": "Thiếu nhi"
+  }
+]

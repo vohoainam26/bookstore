@@ -1,0 +1,452 @@
+[
+  {
+    "product_id": "1056696",
+    "title": "Người Giỏi Chọn Cách Làm Đơn Giản",
+    "product_url": "https://www.fahasa.com/nguoi-gioi-chon-cach-lam-don-gian.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044089089.jpg",
+    "price": 150000,
+    "final_price": 120000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056686",
+    "title": "Thuật Hùng Biện - Sức Mạnh Của Tư Duy Độc Lập Trong Thời Đại Bùng Nổ Thông Tin",
+    "product_url": "https://www.fahasa.com/thuat-hung-bien-suc-manh-cua-tu-duy-doc-lap-trong-thoi-dai-bung-no-thong-tin.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935278610052.jpg",
+    "price": 238000,
+    "final_price": 191000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056683",
+    "title": "Tư Duy Đầu Nguồn - Giải Quyết Vấn Đề Từ Trong Trứng Nước",
+    "product_url": "https://www.fahasa.com/tu-duy-dau-nguon-giai-quyet-van-de-tu-trong-trung-nuoc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934974216582.jpg",
+    "price": 180000,
+    "final_price": 153000,
+    "discount_percent": 15,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056678",
+    "title": "Bản Đồ Não Bộ - Từ Tế Bào Thần Kinh Đến Những Ý Tưởng Lớn",
+    "product_url": "https://www.fahasa.com/ban-do-nao-bo-tu-te-bao-than-kinh-den-nhung-y-tuong-lon.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1---b_nb.jpg",
+    "price": 159000,
+    "final_price": 128000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056677",
+    "title": "Rest Easy - Sức Mạnh Của Nghỉ Ngơi",
+    "product_url": "https://www.fahasa.com/rest-easy-suc-manh-cua-nghi-ngoi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/s/u/sucmanhcuanghingoi.bia1.jpg",
+    "price": 168000,
+    "final_price": 126000,
+    "discount_percent": 25,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056671",
+    "title": "Harvard Bốn Rưỡi Sáng - Bí Kíp Thành Công Của Harvard Dành Cho Bạn Trẻ (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/harvard-bon-ruoi-sang-bi-kip-thanh-cong-cua-harvard-danh-cho-ban-tre-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/3/z3266191304636_62cb644ff1c5a19d61db88f1783f9a87_1.jpg",
+    "price": 169000,
+    "final_price": 136000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056590",
+    "title": "Giải Mã Bản Đồ Tính Cách",
+    "product_url": "https://www.fahasa.com/giai-ma-ban-do-tinh-cach.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/g/i/giai-ma-ban-do-tinh-cach-outline-01.jpg",
+    "price": 209000,
+    "final_price": 188100,
+    "discount_percent": 10,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056393",
+    "title": "Để Thanh Thản Khi Về Già",
+    "product_url": "https://www.fahasa.com/de-thanh-than-khi-ve-gia.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/e/dethanhthankhivegia.bia1.jpg",
+    "price": 138000,
+    "final_price": 103500,
+    "discount_percent": 25,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056341",
+    "title": "Yêu Mình Để Đắt Giá, Giàu Có Để Tự Do",
+    "product_url": "https://www.fahasa.com/yeu-minh-de-dat-gia-giau-co-de-tu-do.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1_y_u-m_nh-_-_t-gi_-gi_u-c_-_-t_-do.jpg",
+    "price": 138000,
+    "final_price": 124200,
+    "discount_percent": 10,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056116",
+    "title": "Tâm Lý Học Nhận Thức Về Tiền",
+    "product_url": "https://www.fahasa.com/tam-ly-hoc-nhan-thuc-ve-tien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/a/tam-ly-hoc-nhan-thuc-ve-tien-outline01.jpg",
+    "price": 239000,
+    "final_price": 215100,
+    "discount_percent": 10,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056109",
+    "title": "Tay Trắng Khi Đến - Và Cũng Từ Tay Trắng Ta Rời Đi - 20 Sự Thật Phũ Phàng Về Cuộc Sống, Cái Chết Và Những Điều Đáng Giá",
+    "product_url": "https://www.fahasa.com/tay-trang-khi-den-va-cung-tu-tay-trang-ta-roi-di-20-su-that-phu-phang-ve-cuoc-song-cai-chet-va-nhung-dieu-dang-gia.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a_tay-trang-khi-den_16x24_14.5.jpg",
+    "price": 199000,
+    "final_price": 170000,
+    "discount_percent": 14,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056094",
+    "title": "Sống Hạnh Phúc Mỗi Ngày",
+    "product_url": "https://www.fahasa.com/song-hanh-phuc-moi-ngay.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935075962637.jpg",
+    "price": 90000,
+    "final_price": 81000,
+    "discount_percent": 10,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056086",
+    "title": "Một Cuốn Sách Hay Giống Như Một Ngọn Núi",
+    "product_url": "https://www.fahasa.com/mot-cuon-sach-hay-giong-nhu-mot-ngon-nui.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935075961753.jpg",
+    "price": 165000,
+    "final_price": 148500,
+    "discount_percent": 10,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056030",
+    "title": "Càng Nỗ Lực Càng Đắt Giá",
+    "product_url": "https://www.fahasa.com/cang-no-luc-cang-dat-gia.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/_/c/_c_ng-n_-l_c-c_ng-_t-gi_---b_a.jpg",
+    "price": 92000,
+    "final_price": 74000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056029",
+    "title": "Giải Mã Kẻ Ái Kỷ",
+    "product_url": "https://www.fahasa.com/giai-ma-ke-ai-ky.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-gi_i-m_-k_-_i-k_.jpg",
+    "price": 189000,
+    "final_price": 152000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1056028",
+    "title": "Ranh Giới Giữa Sói Và Cừu",
+    "product_url": "https://www.fahasa.com/ranh-gioi-giua-soi-va-cuu.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/1/_/1_24_4.jpg",
+    "price": 145000,
+    "final_price": 116000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1055879",
+    "title": "Trưởng Thành Cùng Bạn",
+    "product_url": "https://www.fahasa.com/truong-thanh-cung-ban.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936230474903.jpg",
+    "price": 99000,
+    "final_price": 80000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1055877",
+    "title": "Thế Hệ Tuyệt Vời",
+    "product_url": "https://www.fahasa.com/the-he-tuyet-voi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936230474781.jpg",
+    "price": 239000,
+    "final_price": 192000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1055871",
+    "title": "Nghệ Thuật Phòng Ngừa Bất Hạnh - 52 Sai Lầm Cần TránhTrong Đời",
+    "product_url": "https://www.fahasa.com/nghe-thuat-phong-ngua-bat-hanh-52-sai-lam-can-tranhtrong-doi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235248236.jpg",
+    "price": 160000,
+    "final_price": 128000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1055859",
+    "title": "Yêu Thông Minh - Sổ Tay Sinh Tồn Cho Phụ Nữ Trong Tình Yêu",
+    "product_url": "https://www.fahasa.com/yeu-thong-minh-so-tay-sinh-ton-cho-phu-nu-trong-tinh-yeu.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/y/e/yeu-thong-minh_bia.jpg",
+    "price": 95000,
+    "final_price": 76000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053871",
+    "title": "Thay Đổi Một Suy Nghĩ Thay Đổi Cả Cuộc Đời (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/thay-doi-mot-suy-nghi-thay-doi-ca-cuoc-doi-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_244718_1_2854_1.jpg",
+    "price": 160000,
+    "final_price": 112000,
+    "discount_percent": 30,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053870",
+    "title": "Mỗi Lần Vấp Ngã Là Một Lần Trưởng Thành (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/moi-lan-vap-nga-la-mot-lan-truong-thanh-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/v/v/vvvv_7_1.jpg",
+    "price": 120000,
+    "final_price": 84000,
+    "discount_percent": 30,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053829",
+    "title": "Phụ Nữ 30+",
+    "product_url": "https://www.fahasa.com/phu-nu-30.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/5/b54ed170d2a290471d6582335d9adb17.jpg",
+    "price": 130000,
+    "final_price": 104000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053720",
+    "title": "Bí Mật Của Trí Nhớ Siêu Việt",
+    "product_url": "https://www.fahasa.com/bi-mat-cua-tri-nho-sieu-viet.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238102655.jpg",
+    "price": 90000,
+    "final_price": 63000,
+    "discount_percent": 30,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053532",
+    "title": "Intimate Behaviour - Hành Vi Thân Mật",
+    "product_url": "https://www.fahasa.com/intimate-behaviour-hanh-vi-than-mat.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935235248335.jpg",
+    "price": 250000,
+    "final_price": 200000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053448",
+    "title": "Tại Sao Tôi Không Thể Hòa Hợp Với Mẹ?",
+    "product_url": "https://www.fahasa.com/tai-sao-toi-khong-the-hoa-hop-voi-me.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/2/_/2_19_84.jpg",
+    "price": 119000,
+    "final_price": 96000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053382",
+    "title": "Ikigai-Kaizen-Hansei - Bộ 3 Trí Tuệ Minh Triết Nhật Bản - Cẩm Nang Sống Đời Viên Mãn",
+    "product_url": "https://www.fahasa.com/ikigai-kaizen-hansei-bo-3-tri-tue-minh-triet-nhat-ban-cam-nang-song-doi-vien-man.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/s/a/sach-nhat-bia-a.jpg",
+    "price": 126000,
+    "final_price": 101000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053381",
+    "title": "Being With Busyness - Bước Qua Căng Thẳng Và Kiệt Sức",
+    "product_url": "https://www.fahasa.com/being-with-busyness-buoc-qua-cang-thang-va-kiet-suc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/7/z7866608140371_463b72e2a2f6de09b16fc63d1dc8fbe3.jpg",
+    "price": 175000,
+    "final_price": 140000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053372",
+    "title": "Tôi Là Những Gì Mình Nghĩ",
+    "product_url": "https://www.fahasa.com/toi-la-nhung-gi-minh-nghi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/o/toi-la-nhung-gi-minh-nghi_15x23-01.jpg",
+    "price": 124578,
+    "final_price": 106000,
+    "discount_percent": 14,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053318",
+    "title": "Tự Lãnh Đạo - Làm Chủ Bản Thân-Tạo Giá Trị-Xây Dựng Cuộc Đời Bền Vững",
+    "product_url": "https://www.fahasa.com/tu-lanh-dao-lam-chu-ban-than-tao-gia-tri-xay-dung-cuoc-doi-ben-vung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/u/tu-lanh-dao_14x20.5_24.jpg",
+    "price": 399000,
+    "final_price": 340000,
+    "discount_percent": 14,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053312",
+    "title": "Đừng Tin Những Kẻ Nói Suông - Da Thịt Trong Cuộc Chơi - Quy Tắc Sống Còn Về Rủi Ro Và Trách Nhiệm",
+    "product_url": "https://www.fahasa.com/dung-tin-nhung-ke-noi-suong-da-thit-trong-cuoc-choi-quy-tac-song-con-ve-rui-ro-va-trach-nhiem.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/u/dung-tin-nhung-ke-noi-suong_16x24_17.4.jpg",
+    "price": 229000,
+    "final_price": 195000,
+    "discount_percent": 14,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053292",
+    "title": "Cũng Là “Tiếng Em” Mà Lạ Lắm (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/cung-la-tieng-em-ma-la-lam-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935325005503_1.jpg",
+    "price": 79000,
+    "final_price": 64000,
+    "discount_percent": 18,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053284",
+    "title": "Đừng Vì Cô Đơn Mà Yêu Sai Người",
+    "product_url": "https://www.fahasa.com/dung-vi-co-don-ma-yeu-sai-nguoi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/d/u/dung-vi-co-don-ma-yeu-sai-nguoi---bia-1.jpg",
+    "price": 169000,
+    "final_price": 136000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053283",
+    "title": "Học Cách Tự Yêu Chính Mình",
+    "product_url": "https://www.fahasa.com/hoc-cach-tu-yeu-chinh-minh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/h/o/hoc-cach-tu-yeu-chinh-minh-bia-1.jpg",
+    "price": 189000,
+    "final_price": 152000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053276",
+    "title": "Tuổi Trẻ Đáng Giá Bao Nhiêu (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/tuoi-tre-dang-gia-bao-nhieu-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_239651_1_1.jpg",
+    "price": 145000,
+    "final_price": 116000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053248",
+    "title": "Tĩnh Tại Giữa Vô Thường",
+    "product_url": "https://www.fahasa.com/tinh-tai-giua-vo-thuong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/7/z7902313603390_8d35b9bbbe11e22e622844e16624b471.jpg",
+    "price": 186000,
+    "final_price": 139500,
+    "discount_percent": 25,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053247",
+    "title": "Tuổi Trẻ Và Hành Trang Vào Đời",
+    "product_url": "https://www.fahasa.com/tuoi-tre-va-hanh-trang-vao-doi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/z/7/z7902313637407_443069a84b3ba06a508b61ee85827a3d.jpg",
+    "price": 159000,
+    "final_price": 119250,
+    "discount_percent": 25,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053081",
+    "title": "Tư Duy Dài Hạn",
+    "product_url": "https://www.fahasa.com/tu-duy-dai-han.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/_/n/_nh-2_16.jpg",
+    "price": 119000,
+    "final_price": 96000,
+    "discount_percent": 19,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1053077",
+    "title": "Thuật Điều Hướng - 62 Kỹ Thuật Thuyết Phục Người Khác Trong 10 Giây",
+    "product_url": "https://www.fahasa.com/thuat-dieu-huong-62-ky-thuat-thuyet-phuc-nguoi-khac-trong-10-giay.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1_8_47.jpg",
+    "price": 99000,
+    "final_price": 66330,
+    "discount_percent": 33,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052923",
+    "title": "Lá Thư Tái Sinh - Viết Để Chữa Lành Chính Mình Và Chạm Tới Trái Tim Người Khác",
+    "product_url": "https://www.fahasa.com/la-thu-tai-sinh-viet-de-chua-lanh-chinh-minh-va-cham-toi-trai-tim-nguoi-khac.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786320204311.jpg",
+    "price": 220000,
+    "final_price": 176000,
+    "discount_percent": 20,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052868",
+    "title": "Tình Yêu Thăng Trầm Muôn Thuở - Đi Qua Giông Bão Tìm Về Bình Yên",
+    "product_url": "https://www.fahasa.com/tinh-yeu-thang-tram-muon-thuo.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936107814528.jpg",
+    "price": 129000,
+    "final_price": 99330,
+    "discount_percent": 23,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052867",
+    "title": "Nhà Trị Liệu Bỏ Túi - Phá Vỡ Khuôn Mẫu Cũ Và Chuyển Hóa Cuộc Sống Của Bạn",
+    "product_url": "https://www.fahasa.com/nha-tri-lieu-bo-tui.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251423365.jpg",
+    "price": 189000,
+    "final_price": 161000,
+    "discount_percent": 14,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052846",
+    "title": "Đừng Ậm Ừ - Nói Hiệu Quả, Đời Nở Hoa",
+    "product_url": "https://www.fahasa.com/dung-am-u-noi-hieu-qua-doi-no-hoa.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238102716.jpg",
+    "price": 155000,
+    "final_price": 108500,
+    "discount_percent": 30,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052814",
+    "title": "Kỷ Luật Làm Nên Con Người - Con Đường Thành Công Từ Học Viện Quân Sự West Point (Tái Bản 2026)",
+    "product_url": "https://www.fahasa.com/ky-luat-lam-nen-con-nguoi-con-duong-thanh-cong-tu-hoc-vien-quan-su-west-point-tai-ban-2026.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238102327_1.jpg",
+    "price": 125000,
+    "final_price": 93750,
+    "discount_percent": 25,
+    "category": "Tâm lý - Kỹ năng sống"
+  },
+  {
+    "product_id": "1052785",
+    "title": "Về Miền An Nhiên",
+    "product_url": "https://www.fahasa.com/ve-mien-an-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/b/_/b_a-1---v_-mi_n-an-nhi_n.jpg",
+    "price": 139000,
+    "final_price": 93130,
+    "discount_percent": 33,
+    "category": "Tâm lý - Kỹ năng sống"
+  }
+]

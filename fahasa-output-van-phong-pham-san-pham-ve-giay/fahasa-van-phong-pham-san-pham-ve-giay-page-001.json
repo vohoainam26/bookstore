@@ -1,0 +1,482 @@
+[
+  {
+    "product_id": "1058852",
+    "title": "Giấy Photo IK Copy Paper A4 70gsm (500 Tờ/Ream)",
+    "product_url": "https://www.fahasa.com/giay-ik-copy-a4-70.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8993280003859.jpg",
+    "price": 90000,
+    "final_price": 81000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058853",
+    "title": "Giấy Photo IK Copy Paper A4 80gsm (500 Tờ/Ream)",
+    "product_url": "https://www.fahasa.com/giay-ik-copy-a4-80.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8993280003866.jpg",
+    "price": 105000,
+    "final_price": 94500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058689",
+    "title": "Giấy Ghi Chú Hello Kitty - iiGEN YZ880596 (100 Tờ) (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-hello-kitty-iigen-yz880596-100-to-mau-mau-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029929647.jpg",
+    "price": 32000,
+    "final_price": 28800,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058501",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 70 x 70 mm - Deli NS326 (30 Tờ) - Trái Tim",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-70-x-70-mm-deli-ns326-30-to-trai-tim.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6932673746241-mau3.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058502",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 70 x 70 mm - Deli NS326 (30 Tờ) - Hình Vuông",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-70-x-70-mm-deli-ns326-30-to-hinh-vuong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6932673746241-mau4.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058499",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 70 x 70 mm - Deli NS326 (30 Tờ) - Chiếc Lá",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-70-x-70-mm-deli-ns326-30-to-chiec-la.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6932673746241-mau1.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058500",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 70 x 70 mm - Deli NS326 (30 Tờ) - Hoa 5 Cánh",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-70-x-70-mm-deli-ns326-30-to-hoa-5-canh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6932673746241-mau2.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058481",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 74 x 74 mm - Deli ENS357-C (60 Tờ) - Màu Xanh Đen",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-74-x-74-mm-deli-ens357-c-60-to-mau-xanh-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6970914813444-mau4.jpg",
+    "price": 29500,
+    "final_price": 26550,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058479",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 74 x 74 mm - Deli ENS357-C (60 Tờ) - Màu Hồng",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-74-x-74-mm-deli-ens357-c-60-to-mau-hong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6970914813444-mau2.jpg",
+    "price": 29500,
+    "final_price": 26550,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058480",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 74 x 74 mm - Deli ENS357-C (60 Tờ) - Màu Xanh Lá",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-74-x-74-mm-deli-ens357-c-60-to-mau-xanh-la.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6970914813444-mau3.jpg",
+    "price": 29500,
+    "final_price": 26550,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058478",
+    "title": "Giấy Ghi Chú Sticky Notes Nusign - 74 x 74 mm - Deli ENS357-C (60 Tờ) - Màu Xanh Da Trời",
+    "product_url": "https://www.fahasa.com/giay-ghi-chu-sticky-notes-nusign-74-x-74-mm-deli-ens357-c-60-to-mau-xanh-da-troi.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6970914813444-mau1.jpg",
+    "price": 29500,
+    "final_price": 26550,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058304",
+    "title": "Tập Học Sinh Crayon Shinchan - Kẻ Ngang - 120 Trang 70gsm - Plus 700-V073 - Màu Xanh Dương",
+    "product_url": "https://www.fahasa.com/tap-hoc-sinh-crayon-shinchan-ke-ngang-120-trang-70gsm-plus-700-v073-mau-xanh-duong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238667376.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058182",
+    "title": "Tập Học Sinh Popomi - 4 Ô Ly Vuông - 96 Trang 100gsm - The Sun (Mẫu Bìa Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/tap-hoc-sinh-popomi-4-o-ly-vuong-96-trang-100gsm-the-sun-mau-bia-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934986018242.jpg",
+    "price": 14500,
+    "final_price": 13050,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058102",
+    "title": "Tập Học Sinh Crayon Shinchan - Kẻ Ngang - 120 Trang 70gsm - Plus 700-V073 - Màu Hồng",
+    "product_url": "https://www.fahasa.com/plus-tap-120-trang-ke-ngang-shinchan-hong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936238667383.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058092",
+    "title": "Sổ Hello Kitty A6 - Kẻ Ngang - 120 Trang - iiGEN YZ880591",
+    "product_url": "https://www.fahasa.com/iigen-so-ke-ngang-hello-kitty-a6-60-to-yz880591.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029929524.jpg",
+    "price": 28000,
+    "final_price": 25200,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058093",
+    "title": "Giấy Ghi Chú Hello Kitty - iiGEN YZ880597 (100 Tờ) (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/iigen-giay-ghi-chu-hello-kitty-100-to-yz880597.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029929739.jpg",
+    "price": 35000,
+    "final_price": 31500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058088",
+    "title": "Sổ Ghi Chép Hello Kitty Bìa Cứng Có Khóa Nam Châm - Kẻ Ngang - 192 Trang - iiGEN YZ880371 (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/iigen-so-squishy-hello-kitty-96-to-yz880371.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029919969.jpg",
+    "price": 78000,
+    "final_price": 70200,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1058086",
+    "title": "Giấy Ghi Chú Hello Kitty - iiGEN YZ880239 (50 Tờ) (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/iigen-giay-ghi-chu-hello-kitty-50-to-yz880239.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029909212.jpg",
+    "price": 32000,
+    "final_price": 28800,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057800",
+    "title": "Giấy Note Hello Kitty Viền Dán Trong Suốt - 75 x 75 mm - Guangbo KT86725 (25 Tờ/Xấp) - Mẫu 2",
+    "product_url": "https://www.fahasa.com/giay-note-hello-kitty-vien-dan-trong-suot-75-x-75-mm-guangbo-kt86725-25-to-xap-mau-2.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6977723523960-mau2.jpg",
+    "price": 66000,
+    "final_price": 59400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057799",
+    "title": "Giấy Note Hello Kitty Viền Dán Trong Suốt - 75 x 75 mm - Guangbo KT86725 (25 Tờ/Xấp) - Mẫu 1",
+    "product_url": "https://www.fahasa.com/giay-note-hello-kitty-vien-dan-trong-suot-75-x-75-mm-guangbo-kt86725-25-to-xap-mau-1.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6977723523960-mau1.jpg",
+    "price": 66000,
+    "final_price": 59400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057703",
+    "title": "Sticker Hello Kitty Pha Lê Nhựa Cứng 3D - Guangbo KT86870 (Mẫu Sản Phẩm Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/guangbo-hello-kitty-sticker-hinh-kt86870-48-tap-hop-768-tap-thung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6977723525230.jpg",
+    "price": 39500,
+    "final_price": 35550,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057689",
+    "title": "Sticker Hello Kitty Xốp Nổi 3D - Chủ Đề Fastfood - Guangbo KT86855 (Mẫu Sản Phẩm Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/guangbo-hello-kitty-sticker-hinh-kt86855-48-tap-hop-768-tap-thung.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6977723523595.jpg",
+    "price": 36000,
+    "final_price": 32400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057407",
+    "title": "Bộ 2 Sổ Teen Hello Kitty - iiGEN IG5721 (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/bo-2-so-teen-hello-kitty-iigen-ig5721-mau-mau-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/8/8885021357218.jpg",
+    "price": 48000,
+    "final_price": 43200,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057185",
+    "title": "Giấy Ghi Chú Hello Kitty - iiGEN YZ880599 (120 Tờ) (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/iigen-giay-ghi-chu-hello-kitty-120-to-yz880599.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029929753.jpg",
+    "price": 32000,
+    "final_price": 28800,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057184",
+    "title": "Giấy Ghi Chú Hello Kitty - iiGEN YZ880598 (60 Tờ) (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/iigen-giay-ghi-chu-hello-kitty-60-to-yz880598.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029929746.jpg",
+    "price": 24000,
+    "final_price": 21600,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057181",
+    "title": "Sticker Hello Kitty - iiGEN YZ880318",
+    "product_url": "https://www.fahasa.com/iigen-sticker-hello-kitty-yz880318.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029915749.jpg",
+    "price": 36000,
+    "final_price": 32400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057166",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Pizza A5 - 4 Ô Ly - 96 Trang 80gsm - futurebook (Mẫu Bìa Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-pizza-a5-4-o-ly-96-trang-80gsm-futurebook-mau-bia-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936128471021.jpg",
+    "price": 60000,
+    "final_price": 54000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057160",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Vở Xinh A5 - 4 Ô Ly - 96 Trang 100gsm - futurebook (Mẫu Bìa Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-vo-xinh-a5-4-o-ly-96-trang-100gsm-futurebook-mau-bia-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936128471014.jpg",
+    "price": 75000,
+    "final_price": 67500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1057150",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Animals A5 - 4 Ô Ly - 96 Trang 100gsm - futurebook DK021 (Mẫu Bìa Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-animals-a5-4-o-ly-96-trang-100gsm-futurebook-dk021-mau-bia-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936128471007.jpg",
+    "price": 90000,
+    "final_price": 81000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056631",
+    "title": "Combo Dụng Cụ Học Sinh Tập + Nhãn Capybara",
+    "product_url": "https://www.fahasa.com/combo-dung-cu-hoc-sinh-tap-nhan-capybara.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/a/tap-nhan-capy.jpg",
+    "price": 107000,
+    "final_price": 92120,
+    "discount_percent": 13,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056629",
+    "title": "Combo Dụng Cụ Học Sinh Thủ Công Tiểu Học",
+    "product_url": "https://www.fahasa.com/combo-dung-cu-hoc-sinh-thu-cong-tieu-hoc.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/t/h/thu-cong.jpg",
+    "price": 60500,
+    "final_price": 51744,
+    "discount_percent": 14,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056630",
+    "title": "Combo Dụng Cụ Học Sinh Panda",
+    "product_url": "https://www.fahasa.com/combo-dung-cu-hoc-sinh-panda.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/p/a/panda.jpg",
+    "price": 105000,
+    "final_price": 91140,
+    "discount_percent": 13,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056628",
+    "title": "Combo 04 Tập Campus - Doraemon",
+    "product_url": "https://www.fahasa.com/combo-04-tap-campus-doraemon.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-2206202601.jpg",
+    "price": 92500,
+    "final_price": 81585,
+    "discount_percent": 11,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056076",
+    "title": "Sổ Còng Bìa Nhựa Forest Guardian A5 - 200 Trang - The Sun - Sao La",
+    "product_url": "https://www.fahasa.com/so-cong-bia-nhua-forest-guardian-a5-200-trang-the-sun-sao-la.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934986018860_1.jpg",
+    "price": 89000,
+    "final_price": 71200,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1056075",
+    "title": "Sổ Còng Bìa Nhựa Forest Guardian A5 - 200 Trang - The Sun - Gấu Ngựa",
+    "product_url": "https://www.fahasa.com/so-cong-bia-nhua-forest-guardian-a5-200-trang-the-sun-gau-ngua.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934986018877_1.jpg",
+    "price": 89000,
+    "final_price": 71200,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055846",
+    "title": "Sổ Còng Bìa Nhựa Forest Guardian A5 - 200 Trang - The Sun - Tê Tê Vàng",
+    "product_url": "https://www.fahasa.com/so-cong-bia-nhua-forest-guardian-te-te-vang-a5-15x21cm.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8934986018884_1.jpg",
+    "price": 89000,
+    "final_price": 71200,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055825",
+    "title": "Sổ Tay Bỏ Túi Hello Kitty Hình Vỏ Sò - iiGEN IG5722 - Màu Tím",
+    "product_url": "https://www.fahasa.com/so-tay-bo-tui-hello-kitty-hinh-vo-so-iigen-ig5722-mau-tim.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/8/8885021357225-mau3.jpg",
+    "price": 46000,
+    "final_price": 41400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055824",
+    "title": "Sổ Tay Bỏ Túi Hello Kitty Hình Vỏ Sò - iiGEN IG5722 - Màu Hồng",
+    "product_url": "https://www.fahasa.com/so-tay-bo-tui-hello-kitty-hinh-vo-so-iigen-ig5722-mau-hong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/8/8885021357225-mau2.jpg",
+    "price": 46000,
+    "final_price": 41400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055823",
+    "title": "Sổ Tay Bỏ Túi Hello Kitty Hình Vỏ Sò - iiGEN IG5722 - Màu Xanh Dương",
+    "product_url": "https://www.fahasa.com/so-tay-bo-tui-hello-kitty-hinh-vo-so-iigen-ig5722-mau-xanh-duong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/8/8885021357225-mau1.jpg",
+    "price": 46000,
+    "final_price": 41400,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055771",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Class Kungfu Panda - 4 Ô Ly - 96 Trang 100gsm - Hồng Hà 0332 - Màu Xanh Dương",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-class-kungfu-panda-4-o-ly-96-trang-100gsm-hong-ha-0332-mau-xanh-duong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362054-mau4.jpg",
+    "price": 70000,
+    "final_price": 63000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055770",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Class Kungfu Panda - 4 Ô Ly - 96 Trang 100gsm - Hồng Hà 0332 - Màu Hồng",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-class-kungfu-panda-4-o-ly-96-trang-100gsm-hong-ha-0332-mau-hong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362054-mau3.jpg",
+    "price": 70000,
+    "final_price": 63000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055769",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Class Kungfu Panda - 4 Ô Ly - 96 Trang 100gsm - Hồng Hà 0332 - Màu Xanh Lá",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-class-kungfu-panda-4-o-ly-96-trang-100gsm-hong-ha-0332-mau-xanh-la.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362054-mau2.jpg",
+    "price": 70000,
+    "final_price": 63000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1055768",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh Class Kungfu Panda - 4 Ô Ly - 96 Trang 100gsm - Hồng Hà 0332 - Màu Vàng",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-class-kungfu-panda-4-o-ly-96-trang-100gsm-hong-ha-0332-mau-vang.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362054-mau1_1.jpg",
+    "price": 70000,
+    "final_price": 63000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1053612",
+    "title": "Bộ Sổ Tay Mini Hello Kitty - iiGEN YZ880255",
+    "product_url": "https://www.fahasa.com/iigen-bo-so-tay-mini-hello-kitty-yz880255.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/6/9/6949029909359.jpg",
+    "price": 51000,
+    "final_price": 45900,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1053494",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh South Star Góc Nhỏ - 4 Ô Ly - 200 Trang 80gsm - Hồng Hà 0767 - Mẫu 4",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-south-star-goc-nho-4-o-ly-200-trang-80gsm-hong-ha-0767-mau-4.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362108-mau4.jpg",
+    "price": 167500,
+    "final_price": 150750,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1053492",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh South Star Góc Nhỏ - 4 Ô Ly - 200 Trang 80gsm - Hồng Hà 0767 - Mẫu 2",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-south-star-goc-nho-4-o-ly-200-trang-80gsm-hong-ha-0767-mau-2.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362108-mau2.jpg",
+    "price": 167500,
+    "final_price": 150750,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1053493",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh South Star Góc Nhỏ - 4 Ô Ly - 200 Trang 80gsm - Hồng Hà 0767 - Mẫu 3",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-south-star-goc-nho-4-o-ly-200-trang-80gsm-hong-ha-0767-mau-3.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362108-mau3.jpg",
+    "price": 167500,
+    "final_price": 150750,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  },
+  {
+    "product_id": "1053491",
+    "title": "[MUA 5 TẶNG 1] Tập Học Sinh South Star Góc Nhỏ - 4 Ô Ly - 200 Trang 80gsm - Hồng Hà 0767 - Mẫu 1",
+    "product_url": "https://www.fahasa.com/mua-5-tang-1-tap-hoc-sinh-south-star-goc-nho-4-o-ly-200-trang-80gsm-hong-ha-0767-mau-1.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000362108-mau1.jpg",
+    "price": 167500,
+    "final_price": 150750,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Sản phẩm về giấy"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "product_id": "1047146",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-072/PLUS - Mực Đen",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-gel-072-plus-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324053963.jpg",
+    "price": 120000,
+    "final_price": 96000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1047145",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-071/PLUS - Mực Xanh",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-gel-071-plus-xanh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324053932.jpg",
+    "price": 120000,
+    "final_price": 96000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1047144",
+    "title": "Bút Bi Ký 1.0 mm - Bitex SI01 - Kèm Hộp - Mực Xanh",
+    "product_url": "https://www.fahasa.com/combo-but-ky-1-0-mm-si01-kem-hop.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000364065.jpg",
+    "price": 219000,
+    "final_price": 179100,
+    "discount_percent": 18,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046957",
+    "title": "Bút Máy Chipy - Thiên Long FTC-019 - Mực Xanh",
+    "product_url": "https://www.fahasa.com/but-may-chipy-thien-long-ftc-019-muc-xanh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324018252.jpg",
+    "price": 17000,
+    "final_price": 15000,
+    "discount_percent": 11,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046890",
+    "title": "Bút Dạ Quang - Thiên Long HL-03 Plus - Màu Vàng",
+    "product_url": "https://www.fahasa.com/but-da-quang-hl-03-plus-vang.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324049409.jpg",
+    "price": 12000,
+    "final_price": 10500,
+    "discount_percent": 12,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046889",
+    "title": "Bút Máy Chipy - Thiên Long FTC-019 - Mực Tím",
+    "product_url": "https://www.fahasa.com/but-may-ftc-019-tim-hop-20.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324018306.jpg",
+    "price": 17000,
+    "final_price": 15000,
+    "discount_percent": 11,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046825",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-129/PLUS - Mực Xanh - Thân Trong",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-minimalist-0-5-mm-thien-long-gel-129-plus-muc-xanh-than-trong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324057893.jpg",
+    "price": 155000,
+    "final_price": 124000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046823",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-129/PLUS - Mực Xanh - Thân Trắng",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-minimalist-0-5-mm-thien-long-gel-129-plus-muc-xanh-than-trang.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324056421.jpg",
+    "price": 155000,
+    "final_price": 124000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046824",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-129/PLUS - Mực Đen - Thân Trong",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-minimalist-0-5-mm-thien-long-gel-129-plus-muc-den-than-trong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324057909.jpg",
+    "price": 155000,
+    "final_price": 124000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046821",
+    "title": "Hộp 10 Bút Gel 0.5 mm - Thiên Long GEL-071/PLUS - Mực Đen",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-0-5-mm-thien-long-gel-071-plus-muc-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324053888.jpg",
+    "price": 120000,
+    "final_price": 96000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046819",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-LB-EX - Mực Xanh Dương Nhạt",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-lb-ex-muc-xanh-duong-nhat.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505632136.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046818",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-BB-EX - Mực Xanh Đen",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-bb-ex-muc-xanh-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505581922.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046817",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-V-EX - Mực Tím",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-v-ex-muc-tim.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505632129.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046815",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-P-EX - Mực Hồng",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-p-ex-muc-hong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505632112.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046814",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-O-EX - Mực Cam",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-o-ex-muc-cam.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505632105.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046804",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Watermelon",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-watermelon.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau5.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046805",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Coconut",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-coconut.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau6.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046803",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Grape",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-grape.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau4.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046802",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Peach",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-peach.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau3.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046800",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Grapefruit",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-grapefruit.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau1.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046801",
+    "title": "Bút Dạ Quang Bấm Fruitty Click - Bitex HL06 - Mango",
+    "product_url": "https://www.fahasa.com/but-da-quang-bam-fruitty-click-bitex-hl06-mango.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935276435084-mau2.jpg",
+    "price": 15000,
+    "final_price": 12000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046822",
+    "title": "Hộp 10 Bút Gel Minimalist 0.5 mm - Thiên Long GEL-129/PLUS - Mực Đen - Thân Trắng",
+    "product_url": "https://www.fahasa.com/hop-10-but-gel-minimalist-0-5-mm-thien-long-gel-129-plus-muc-den-than-trang.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324056476.jpg",
+    "price": 155000,
+    "final_price": 124000,
+    "discount_percent": 20,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046816",
+    "title": "Bút Gel Juice Up 0.5 mm - Pilot LJP-20S5-BN-EX - Mực Nâu",
+    "product_url": "https://www.fahasa.com/but-gel-juice-up-0-5-mm-pilot-ljp-20s5-bn-ex-muc-nau.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/4/9/4902505632143.jpg",
+    "price": 49000,
+    "final_price": 44000,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046187",
+    "title": "Bút Lông Dầu 1 Đầu - Permanent Marker - Thiên Long PM-025 - Mực Xanh",
+    "product_url": "https://www.fahasa.com/but-long-dau-1-dau-permanent-marker-thien-long-pm-025-muc-xanh.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324043353.jpg",
+    "price": 11000,
+    "final_price": 9500,
+    "discount_percent": 13,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046185",
+    "title": "Bút Lông Dầu 1 Đầu - Permanent Marker - Thiên Long PM-025 - Mực Đen",
+    "product_url": "https://www.fahasa.com/but-long-dau-1-dau-permanent-marker-thien-long-pm-025-muc-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324043360.jpg",
+    "price": 11000,
+    "final_price": 9500,
+    "discount_percent": 13,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1046186",
+    "title": "Bút Lông Dầu 1 Đầu - Permanent Marker - Thiên Long PM-025 - Mực Đỏ",
+    "product_url": "https://www.fahasa.com/but-long-dau-1-dau-permanent-marker-thien-long-pm-025-muc-do.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935324042790.jpg",
+    "price": 11000,
+    "final_price": 9500,
+    "discount_percent": 13,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045702",
+    "title": "Bút Gel Bấm 0.5 mm - Writech W0152 - Mực Đen - Pink",
+    "product_url": "https://www.fahasa.com/but-gel-bam-0-5-mm-writech-w0152-muc-den-pink.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000356725.jpg",
+    "price": 32000,
+    "final_price": 28500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045703",
+    "title": "Bút Gel Bấm 0.5 mm - Writech W0152 - Mực Xanh - Blue",
+    "product_url": "https://www.fahasa.com/but-gel-bam-0-5-mm-writech-w0152-muc-xanh-blue.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000356732.jpg",
+    "price": 32000,
+    "final_price": 28500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045700",
+    "title": "Bút Gel Bấm Không Ồn Twin-Ball 0.5 mm - Writech W0161 - Mực Đen - Blue",
+    "product_url": "https://www.fahasa.com/but-gel-bam-khong-on-twin-ball-0-5-mm-writech-w0161-muc-den-blue.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325851.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045701",
+    "title": "Bút Gel Bấm Không Ồn Space Up 0.5 mm - Writech W0154 - Mực Xanh - White",
+    "product_url": "https://www.fahasa.com/but-gel-bam-khong-on-space-up-0-5-mm-writech-w0154-muc-xanh-white.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000326018.jpg",
+    "price": 27000,
+    "final_price": 24000,
+    "discount_percent": 11,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045699",
+    "title": "Bút Gel Bấm Không Ồn Ombre 0.7 mm - Writech W0171 - Mực Đen - Pink",
+    "product_url": "https://www.fahasa.com/but-gel-bam-khong-on-ombre-0-7-mm-writech-w0171-muc-den-pink.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325813.jpg",
+    "price": 26000,
+    "final_price": 23000,
+    "discount_percent": 11,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045698",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Half Baked",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-half-baked.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325721.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045696",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Tango Pink",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-tango-pink.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325677.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045697",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Lime",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-lime.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325707.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045692",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Baby Pink",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-baby-pink.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325431.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045693",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Lilac",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-lilac.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325448.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045694",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Sun Yellow",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-sun-yellow.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325455.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045691",
+    "title": "Bút Đánh Dấu Highlight Aesthetic Tone Pastel - Writech W832 - Turquoise",
+    "product_url": "https://www.fahasa.com/but-danh-dau-highlight-aesthetic-tone-pastel-writech-w832-turquoise.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/3/9/3900000325424.jpg",
+    "price": 25000,
+    "final_price": 22500,
+    "discount_percent": 10,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045769",
+    "title": "Combo 20 Ruột Bút Gel Đầu Ngòi ST 0.5 mm - Deli A5066 - Mực Đen",
+    "product_url": "https://www.fahasa.com/combo-20-ruot-but-gel-dau-ngoi-st-0-5-mm-deli-a5066-muc-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6975239283606.jpg",
+    "price": 140000,
+    "final_price": 80948,
+    "discount_percent": 42,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045767",
+    "title": "Combo 20 Ruột Bút Gel Dạng Bấm 0.5 mm - Deli S221 - Mực Đen",
+    "product_url": "https://www.fahasa.com/combo-20-ruot-but-gel-dang-bam-0-5-mm-deli-s221-muc-den.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6935205307774.jpg",
+    "price": 140000,
+    "final_price": 78204,
+    "discount_percent": 44,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045764",
+    "title": "Combo 20 Bút Chì Lục Giác Comiko HB - Deli EC068-HB - Màu Xanh Dương",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-luc-giac-comiko-hb-deli-ec068-hb-mau-xanh-duong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6932673737799.jpg",
+    "price": 112000,
+    "final_price": 60368,
+    "discount_percent": 46,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045763",
+    "title": "Combo 20 Bút Chì Lục Giác Comiko 2B - Deli EC068-2B - Màu Xanh Dương",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-luc-giac-comiko-2b-deli-ec068-2b-mau-xanh-duong.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6932673745619.jpg",
+    "price": 160000,
+    "final_price": 80000,
+    "discount_percent": 50,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045761",
+    "title": "Combo 20 Bút Chì Lục Giác 2B Kèm Tẩy - Deli 33159",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-luc-giac-2b-kem-tay-deli-33159.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6921734906175.jpg",
+    "price": 140000,
+    "final_price": 76832,
+    "discount_percent": 45,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045759",
+    "title": "Combo 20 Bút Chì HB - Deli 58166 (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-hb-deli-58166-mau-mau-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6935205369116.jpg",
+    "price": 112000,
+    "final_price": 60368,
+    "discount_percent": 46,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045756",
+    "title": "Combo 20 Bút Chì Gỗ 2B - Deli S929 (Mẫu Màu Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-go-2b-deli-s929-mau-mau-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6935205369758.jpg",
+    "price": 126000,
+    "final_price": 71618,
+    "discount_percent": 43,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045754",
+    "title": "Combo 20 Bút Chì 2B - Deli 33312-2B",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-2b-deli-33312-2b.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6935205319012.jpg",
+    "price": 160000,
+    "final_price": 156800,
+    "discount_percent": 2,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045755",
+    "title": "Combo 20 Bút Chì Gỗ 2B - Deli HC805-2B",
+    "product_url": "https://www.fahasa.com/combo-20-but-chi-go-2b-deli-hc805-2b.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6942233654022.jpg",
+    "price": 98000,
+    "final_price": 53782,
+    "discount_percent": 45,
+    "category": "Văn phòng phẩm - Bút"
+  },
+  {
+    "product_id": "1045753",
+    "title": "Combo 20 Bút Bi Dầu Đầu Mini 0.7 mm - Deli EQ117C-BK - Mực Đen (Màu Thân Bút Giao Ngẫu Nhiên)",
+    "product_url": "https://www.fahasa.com/combo-20-but-bi-dau-dau-mini-0-7-mm-deli-eq117c-bk-muc-den-mau-than-but-giao-ngau-nhien.html",
+    "image_src": "https://cdn1.fahasa.com/media/catalog/product/c/o/combo-20-6932673709475.jpg",
+    "price": 154000,
+    "final_price": 84515,
+    "discount_percent": 45,
+    "category": "Văn phòng phẩm - Bút"
+  }
+]
