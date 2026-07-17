@@ -88,16 +88,7 @@ const PROMO_CARDS = [
     border: "#fecaca",
     iconBg: "#fee2e2",
     iconColor: "#dc2626",
-  },
-  {
-    id: 2,
-    title: "Mã Giảm Giá",
-    sub: "Nhập SACHVIET50",
-    Icon: Ticket,
-    bg: "#fff7ed",
-    border: "#fed7aa",
-    iconBg: "#ffedd5",
-    iconColor: "#ea580c",
+    link: "/products",
   },
   {
     id: 3,
@@ -108,30 +99,18 @@ const PROMO_CARDS = [
     border: "#e9d5ff",
     iconBg: "#f3e8ff",
     iconColor: "#9333ea",
-  },
-  {
-    id: 4,
-    title: "Free Ship 0đ",
-    sub: "Đơn từ 199.000đ",
-    Icon: Truck,
-    bg: "#f0fdf4",
-    border: "#bbf7d0",
-    iconBg: "#dcfce7",
-    iconColor: "#16a34a",
+    link: "/products",
   },
 ];
 
 const QUICK_LINKS = [
-  { id: 1, label: "Sale\nGiữa Tháng", Icon: Percent, iconBg: "#fee2e2", iconColor: "#dc2626" },
-  { id: 2, label: "Mã Giảm\nGiá", Icon: Ticket, iconBg: "#ffedd5", iconColor: "#ea580c" },
-  { id: 3, label: "Đồ Chơi\nTrẻ Em", Icon: GameController, iconBg: "#fef9c3", iconColor: "#ca8a04" },
-  { id: 4, label: "Sách\nThiếu Nhi", Icon: Baby, iconBg: "#dcfce7", iconColor: "#16a34a" },
-  { id: 5, label: "Sách\nVăn Học", Icon: BookOpen, iconBg: "#dbeafe", iconColor: "#2563eb" },
-  { id: 6, label: "Văn Phòng\nPhẩm", Icon: Pencil, iconBg: "#ede9fe", iconColor: "#7c3aed" },
-  { id: 7, label: "Flash\nSale", Icon: Lightning, iconBg: "#fee2e2", iconColor: "#e11d48" },
-  { id: 8, label: "Quà\nTặng", Icon: Gift, iconBg: "#fce7f3", iconColor: "#db2777" },
-  { id: 9, label: "Hàng\nMới Về", Icon: Star, iconBg: "#fff7ed", iconColor: "#f59e0b" },
-  { id: 10, label: "Giỏ\nHàng", Icon: Bag, iconBg: "#ecfeff", iconColor: "#0891b2" },
+  { id: 1, label: "Văn Học", Icon: BookOpen, iconBg: "#dbeafe", iconColor: "#2563eb", link: "/products?category=Tiểu thuyết" },
+  { id: 2, label: "Kinh Tế", Icon: BookOpen, iconBg: "#ede9fe", iconColor: "#7c3aed", link: "/products?category=Kinh tế - Chính trị - Pháp lý" },
+  { id: 3, label: "Tâm Lý", Icon: Star, iconBg: "#fef9c3", iconColor: "#ca8a04", link: "/products?category=Tâm lý - Kỹ năng sống" },
+  { id: 4, label: "Thiếu Nhi", Icon: Baby, iconBg: "#dcfce7", iconColor: "#16a34a", link: "/products?category=Thiếu nhi" },
+  { id: 5, label: "Lịch Sử", Icon: BookOpen, iconBg: "#ffedd5", iconColor: "#ea580c", link: "/products?category=Tiểu sử - Hồi ký" },
+  { id: 6, label: "Flash Sale", Icon: Lightning, iconBg: "#fee2e2", iconColor: "#e11d48", link: "/products" },
+  { id: 7, label: "Giỏ Hàng", Icon: Bag, iconBg: "#ecfeff", iconColor: "#0891b2", link: "/cart" },
 ];
 
 // ─── MAIN SLIDER ──────────────────────────────────────────────────────────────
@@ -281,13 +260,14 @@ function StaticBanners() {
 
 function PromoCardsRow() {
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
       {PROMO_CARDS.map((card) => {
         const { Icon } = card;
         return (
-          <div
+          <Link
             key={card.id}
-            className="flex items-center gap-3 px-4 py-3 rounded-xl cursor-pointer transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md"
+            href={card.link}
+            className="flex items-center gap-3 px-4 py-3 rounded-xl cursor-pointer transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md block"
             style={{
               background: card.bg,
               border: `1.5px solid ${card.border}`,
@@ -303,13 +283,13 @@ function PromoCardsRow() {
               <p className="font-bold text-sm leading-tight text-gray-800 truncate">{card.title}</p>
               <p className="text-xs text-gray-500 truncate">{card.sub}</p>
             </div>
-            <button
+            <span
               className="ml-auto flex-shrink-0 px-2.5 py-1 rounded-md text-xs font-bold text-white transition-all duration-150 hover:opacity-85 active:scale-95"
               style={{ background: "#ef4444" }}
             >
               MUA
-            </button>
-          </div>
+            </span>
+          </Link>
         );
       })}
     </div>
@@ -321,10 +301,11 @@ function PromoCardsRow() {
 function QuickLinksRow() {
   return (
     <div className="flex justify-between items-start gap-1 overflow-x-auto pb-1">
-      {QUICK_LINKS.map(({ id, label, Icon, iconBg, iconColor }) => (
-        <button
+      {QUICK_LINKS.map(({ id, label, Icon, iconBg, iconColor, link }) => (
+        <Link
           key={id}
-          className="flex flex-col items-center gap-1.5 px-2 flex-shrink-0 group transition-transform duration-200 hover:-translate-y-1"
+          href={link}
+          className="flex flex-col items-center gap-1.5 px-2 flex-shrink-0 group transition-transform duration-200 hover:-translate-y-1 block"
           style={{ minWidth: "64px" }}
         >
           <div
@@ -339,7 +320,7 @@ function QuickLinksRow() {
           >
             {label}
           </span>
-        </button>
+        </Link>
       ))}
     </div>
   );

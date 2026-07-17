@@ -1,16 +1,20 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
+import { Suspense } from "react";
 import { createClient } from "@/lib/supabase/client";
 import Link from "next/link";
 import { EnvelopeSimple, LockKey, User } from "@phosphor-icons/react";
 
-export default function RegisterPage() {
+function RegisterContent() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const nextParam = searchParams.get("next");
+  const emailParam = searchParams.get("email");
   
   const [fullName, setFullName] = useState("");
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState(emailParam || "");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
   const [error, setError] = useState("");
@@ -43,7 +47,7 @@ export default function RegisterPage() {
         data: {
           full_name: fullName,
         },
-        emailRedirectTo: `${window.location.origin}/auth/confirm`,
+        emailRedirectTo: `${window.location.origin}/auth/confirm${nextParam ? `?next=${encodeURIComponent(nextParam)}` : ""}`,
       },
     });
 
@@ -73,7 +77,7 @@ export default function RegisterPage() {
           <p className="text-gray-500 mb-6">
             Chúng tôi đã gửi một liên kết xác nhận đến <strong>{email}</strong>. Vui lòng kiểm tra hộp thư đến (và thư mục spam) để kích hoạt tài khoản.
           </p>
-          <Link href="/account/login" className="font-semibold text-green-700 hover:underline">
+          <Link href={`/account/login${nextParam ? `?next=${encodeURIComponent(nextParam)}` : ""}`} className="font-semibold text-green-700 hover:underline">
             Quay lại trang đăng nhập
           </Link>
         </div>
@@ -172,11 +176,19 @@ export default function RegisterPage() {
 
         <div className="mt-8 text-center text-sm text-gray-500">
           Đã có tài khoản?{" "}
-          <Link href="/account/login" className="font-semibold text-green-700 hover:underline">
+          <Link href={`/account/login${nextParam ? `?next=${encodeURIComponent(nextParam)}` : ""}`} className="font-semibold text-green-700 hover:underline">
             Đăng nhập ngay
           </Link>
         </div>
       </div>
     </div>
+  );
+}
+
+export default function RegisterPage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center text-gray-500">Đang tải...</div>}>
+      <RegisterContent />
+    </Suspense>
   );
 }

@@ -562,21 +562,35 @@ function ProductsContent() {
                 >
                   <CaretRight size={14} className="rotate-180" />
                 </button>
-                {Array.from({ length: totalPages }).map((_, i) => (
-                  <button
-                    key={i}
-                    onClick={() => setCurrentPage(i + 1)}
-                    className="w-9 h-9 rounded-full flex items-center justify-center text-sm font-semibold transition-all"
-                    style={{
-                      background: currentPage === i + 1 ? "var(--color-brand)" : "var(--color-surface-overlay)",
-                      border: `1px solid ${currentPage === i + 1 ? "var(--color-brand)" : "var(--color-border)"}`,
-                      color: currentPage === i + 1 ? "white" : "var(--color-text-secondary)",
-                      fontFamily: "var(--font-outfit)",
-                    }}
-                  >
-                    {i + 1}
-                  </button>
-                ))}
+                {(() => {
+                  const getPaginationItems = (current: number, total: number) => {
+                    if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+                    if (current <= 4) return [1, 2, 3, 4, 5, '...', total];
+                    if (current >= total - 3) return [1, '...', total - 4, total - 3, total - 2, total - 1, total];
+                    return [1, '...', current - 1, current, current + 1, '...', total];
+                  };
+                  return getPaginationItems(currentPage, totalPages).map((item, index) => {
+                    if (item === '...') {
+                      return <span key={`ellipsis-${index}`} className="text-gray-400 px-1">...</span>;
+                    }
+                    const p = item as number;
+                    return (
+                      <button
+                        key={p}
+                        onClick={() => setCurrentPage(p)}
+                        className="w-9 h-9 rounded-full flex items-center justify-center text-sm font-semibold transition-all flex-shrink-0"
+                        style={{
+                          background: currentPage === p ? "var(--color-brand)" : "var(--color-surface-overlay)",
+                          border: `1px solid ${currentPage === p ? "var(--color-brand)" : "var(--color-border)"}`,
+                          color: currentPage === p ? "white" : "var(--color-text-secondary)",
+                          fontFamily: "var(--font-outfit)",
+                        }}
+                      >
+                        {p}
+                      </button>
+                    );
+                  });
+                })()}
                 <button
                   onClick={() => setCurrentPage(Math.min(totalPages, currentPage + 1))}
                   disabled={currentPage === totalPages}

@@ -11,6 +11,7 @@ function LoginContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const errorParam = searchParams.get("error");
+  const nextParam = searchParams.get("next");
   
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -37,7 +38,11 @@ function LoginContent() {
       }
       setLoading(false);
     } else {
-      router.push("/account");
+      if (nextParam) {
+        router.push(nextParam);
+      } else {
+        router.push("/account");
+      }
       router.refresh();
     }
   };
@@ -100,7 +105,7 @@ function LoginContent() {
 
       <div className="mt-8 text-center text-sm text-gray-500">
         Chưa có tài khoản?{" "}
-        <Link href="/account/register" className="font-semibold text-green-700 hover:underline">
+        <Link href={`/account/register${nextParam ? `?next=${encodeURIComponent(nextParam)}` : ""}`} className="font-semibold text-green-700 hover:underline">
           Đăng ký ngay
         </Link>
       </div>

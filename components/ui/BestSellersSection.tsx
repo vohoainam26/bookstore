@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Link from "next/link";
 import { Fire, Star, ShoppingCart } from "@phosphor-icons/react";
 import { getBooks } from "@/lib/books";
 import { useCartStore } from "@/store/cartStore";
@@ -107,22 +108,26 @@ function ProductDetailPanel({ book }: { book: any }) {
       <div className="flex gap-5">
         {/* Cover image */}
         <div className="flex-shrink-0">
-          <img
-            src={book.imageUrl}
-            alt={book.name}
-            className="w-32 rounded-lg shadow-md object-cover"
-            style={{ aspectRatio: "2/3" }}
-          />
+          <Link href={`/products/${book.slug}`}>
+            <img
+              src={book.imageUrl}
+              alt={book.name}
+              className="w-32 rounded-lg shadow-md object-cover hover:opacity-90 transition-opacity cursor-pointer"
+              style={{ aspectRatio: "2/3" }}
+            />
+          </Link>
         </div>
 
         {/* Info */}
         <div className="flex-1 min-w-0">
-          <h3
-            className="font-extrabold text-gray-900 mb-1 leading-tight line-clamp-2"
-            style={{ fontFamily: "var(--font-display)", fontSize: "1.05rem" }}
-          >
-            {book.name}
-          </h3>
+          <Link href={`/products/${book.slug}`}>
+            <h3
+              className="font-extrabold text-gray-900 mb-1 leading-tight line-clamp-2 hover:text-red-600 transition-colors cursor-pointer"
+              style={{ fontFamily: "var(--font-display)", fontSize: "1.05rem" }}
+            >
+              {book.name}
+            </h3>
+          </Link>
           <p className="text-sm text-gray-500 mb-3">{book.author}</p>
 
           {/* Price row */}
@@ -152,7 +157,7 @@ function ProductDetailPanel({ book }: { book: any }) {
           <div className="flex items-center gap-2 mb-4">
             <StarRating value={book.rating} size={15} />
             <span className="text-sm text-gray-500">
-              {book.rating}/5 ({book.reviewCount} đánh giá)
+              {book.rating > 0 ? `${book.rating}/5` : "Chưa có đánh giá"} ({book.reviewCount} đánh giá)
             </span>
           </div>
 
@@ -188,10 +193,13 @@ function ProductDetailPanel({ book }: { book: any }) {
         <h4 className="font-bold text-gray-900 mb-3 text-sm">Đánh giá sản phẩm</h4>
         <div className="flex items-center gap-2 mb-2">
           {[1, 2, 3, 4, 5].map((i) => (
-            <Star key={i} size={20} weight="regular" style={{ color: "#d1d5db" }} />
+            <Star key={i} size={20} weight={i <= Math.round(book.rating) ? "fill" : "regular"} style={{ color: i <= Math.round(book.rating) ? "#f59e0b" : "#d1d5db" }} />
           ))}
+          <span className="text-sm font-semibold ml-1">{book.rating > 0 ? `${book.rating}/5` : ""}</span>
         </div>
-        <p className="text-sm text-gray-400">Sản phẩm chưa có đánh giá nào.</p>
+        <p className="text-sm text-gray-500">
+          {book.reviewCount > 0 ? `Dựa trên ${book.reviewCount} đánh giá từ khách hàng.` : "Sản phẩm chưa có đánh giá nào."}
+        </p>
       </div>
     </div>
   );
@@ -219,8 +227,8 @@ export default function BestSellersSection() {
         author: b.category,
         price: b.price,
         originalPrice: b.original_price,
-        rating: b.rating_value || 5,
-        reviewCount: b.reviews_count || 100,
+        rating: b.rating_value || 0,
+        reviewCount: b.reviews_count || 0,
         imageUrl: b.image_url,
         badge: b.label || (b.discount_percent ? `-${b.discount_percent}%` : ""),
         category: b.category,

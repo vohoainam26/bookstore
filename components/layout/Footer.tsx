@@ -1,10 +1,31 @@
 "use client";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { createClient } from "@/lib/supabase/client";
 import { InstagramLogo, FacebookLogo, TiktokLogo, EnvelopeSimple, Phone, MapPin } from "@phosphor-icons/react/dist/ssr";
 
 export default function Footer() {
   const pathname = usePathname();
+  const router = useRouter();
+  const [email, setEmail] = useState("");
+  const [user, setUser] = useState<any>(null);
+
+  useEffect(() => {
+    const supabase = createClient();
+    
+    // Lấy user hiện tại
+    supabase.auth.getUser().then(({ data: { user } }) => {
+      setUser(user);
+    });
+
+    // Lắng nghe thay đổi trạng thái đăng nhập
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+      setUser(session?.user ?? null);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
 
   if (pathname.startsWith('/admin')) {
     return null;
@@ -13,12 +34,13 @@ export default function Footer() {
   return (
     <footer style={{ background: "var(--color-brand)", color: "white" }}>
       {/* Newsletter strip */}
-      <div
-        style={{
-          background: "var(--color-brand-light)",
-          borderBottom: "1px solid rgb(255 255 255 / 0.10)",
-        }}
-      >
+      {!user && (
+        <div
+          style={{
+            background: "var(--color-brand-light)",
+            borderBottom: "1px solid rgb(255 255 255 / 0.10)",
+          }}
+        >
         <div className="w-full mx-auto px-4 lg:px-8 py-12" style={{ maxWidth: "1280px" }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div>
@@ -34,7 +56,14 @@ export default function Footer() {
             </div>
             <form
               className="flex gap-3 w-full md:w-auto"
-              onSubmit={(e) => e.preventDefault()}
+              onSubmit={(e) => {
+                e.preventDefault();
+                if (email.trim()) {
+                  router.push(`/account/register?email=${encodeURIComponent(email)}`);
+                } else {
+                  router.push(`/account/register`);
+                }
+              }}
             >
               <div className="relative flex-1 md:w-72">
                 <EnvelopeSimple
@@ -44,6 +73,8 @@ export default function Footer() {
                 />
                 <input
                   type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
                   placeholder="Nhập email của bạn..."
                   className="w-full pl-10 pr-4 py-3 rounded-full text-sm border-0 focus:outline-none focus:ring-2"
                   style={{
@@ -68,7 +99,8 @@ export default function Footer() {
             </form>
           </div>
         </div>
-      </div>
+        </div>
+      )}
 
       {/* Main footer */}
       <div className="w-full mx-auto px-4 lg:px-8 py-12" style={{ maxWidth: "1280px" }}>
@@ -122,14 +154,20 @@ export default function Footer() {
               Cửa hàng
             </h4>
             <ul className="space-y-2.5">
-              {["Sách mới nhất", "Sách bán chạy", "Văn phòng phẩm", "Quà tặng", "Blog"].map((item) => (
-                <li key={item}>
+              {[
+                { label: "Sách mới nhất", href: "/new-books" },
+                { label: "Sách bán chạy", href: "/best-sellers" },
+                { label: "Văn phòng phẩm", href: "/stationery" },
+                { label: "Quà tặng", href: "/gifts" },
+                { label: "Blog", href: "/blog" }
+              ].map((item) => (
+                <li key={item.label}>
                   <Link
-                    href="#"
+                    href={item.href}
                     className="text-sm transition-colors duration-150 hover:text-white"
                     style={{ color: "rgb(255 255 255 / 0.60)" }}
                   >
-                    {item}
+                    {item.label}
                   </Link>
                 </li>
               ))}
@@ -141,14 +179,20 @@ export default function Footer() {
               Hỗ trợ
             </h4>
             <ul className="space-y-2.5">
-              {["Hướng dẫn mua hàng", "Theo dõi đơn hàng", "Đổi trả hàng", "Câu hỏi thường gặp", "Liên hệ chúng tôi"].map((item) => (
-                <li key={item}>
+              {[
+                { label: "Hướng dẫn mua hàng", href: "/shopping-guide" },
+                { label: "Theo dõi đơn hàng", href: "/track-order" },
+                { label: "Đổi trả hàng", href: "/returns" },
+                { label: "Câu hỏi thường gặp", href: "/faq" },
+                { label: "Liên hệ chúng tôi", href: "/contact" }
+              ].map((item) => (
+                <li key={item.label}>
                   <Link
-                    href="#"
+                    href={item.href}
                     className="text-sm transition-colors duration-150 hover:text-white"
                     style={{ color: "rgb(255 255 255 / 0.60)" }}
                   >
-                    {item}
+                    {item.label}
                   </Link>
                 </li>
               ))}
@@ -160,14 +204,20 @@ export default function Footer() {
               Về chúng tôi
             </h4>
             <ul className="space-y-2.5">
-              {["Câu chuyện của Trang", "Chính sách bảo mật", "Điều khoản dịch vụ", "Chính sách vận chuyển", "Chương trình thành viên"].map((item) => (
-                <li key={item}>
+              {[
+                { label: "Câu chuyện của Trang", href: "/about" },
+                { label: "Chính sách bảo mật", href: "/privacy-policy" },
+                { label: "Điều khoản dịch vụ", href: "/terms-of-service" },
+                { label: "Chính sách vận chuyển", href: "/shipping-policy" },
+                { label: "Chương trình thành viên", href: "/membership" }
+              ].map((item) => (
+                <li key={item.label}>
                   <Link
-                    href="#"
+                    href={item.href}
                     className="text-sm transition-colors duration-150 hover:text-white"
                     style={{ color: "rgb(255 255 255 / 0.60)" }}
                   >
-                    {item}
+                    {item.label}
                   </Link>
                 </li>
               ))}

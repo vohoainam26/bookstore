@@ -248,13 +248,14 @@ export default function Header() {
                 </span>
               </Link>
 
-              <button
+              <Link
+                href="/wishlist"
                 className="relative flex items-center justify-center w-10 h-10 rounded-full transition-all duration-200 hover:bg-[var(--color-stone-50)]"
                 style={{ color: "var(--color-text-secondary)" }}
                 aria-label="Danh sách yêu thích"
               >
                 <Heart size={18} />
-              </button>
+              </Link>
 
               <button
                 id="cart-button"
